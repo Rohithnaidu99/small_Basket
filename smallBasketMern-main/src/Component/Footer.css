@@ -1,0 +1,7 @@
+footer h5 {
+    color: rgb(165 205 57);
+  }
+  
+  .footerLinks a:hover {
+    color: rgb(165 205 57) !important;
+  }

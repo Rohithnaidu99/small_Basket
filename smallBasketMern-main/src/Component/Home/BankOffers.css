@@ -1,0 +1,8 @@
+.bankOffers:hover {
+    transform: scale(1.05);
+    box-shadow: 5px 5px 5px rgba(33, 33, 33, 0.2);
+  }
+
+.bankOffers{
+  height: 150px;
+}
