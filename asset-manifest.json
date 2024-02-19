@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/small_Basket/static/css/main.c0d02cb3.css",
+    "main.js": "/small_Basket/static/js/main.f916993d.js",
+    "index.html": "/small_Basket/index.html",
+    "main.c0d02cb3.css.map": "/small_Basket/static/css/main.c0d02cb3.css.map",
+    "main.f916993d.js.map": "/small_Basket/static/js/main.f916993d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d02cb3.css",
+    "static/js/main.f916993d.js"
+  ]
+}
