@@ -1,0 +1,27 @@
+.searchBar {
+    width: 28rem !important;
+  }
+
+  .customSize {
+    height: 60px;
+    width: 60px;
+  }
+  
+  .dropdown-item.active,
+  .dropdown-item:active {
+    text-decoration: none !important;
+    background-color: rgb(236 28 36) !important;
+  }
+
+  .dropdown-item:hover{
+    background-color: rgb(236 28 36) !important;
+    color: white !important;
+  }
+
+  .dropdown-menu {
+    display: none; /* Hide the dropdown menu by default */
+  }
+  
+  .nav-item.dropdown:hover .dropdown-menu {
+    display: block; /* Display the dropdown menu when hovering over the parent item */
+  }
